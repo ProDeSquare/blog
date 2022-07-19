@@ -7,12 +7,10 @@ theme: novela
 paginate: 6
 
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/ProDeSquare"
+  github: "https://github.com/ProDeSquare"
+  instagram: "https://instagram.com/ProDeSquare"
+  youtube: "https://youtube.com/ProDeSquare"
 
 taxonomies:
   author: authors
