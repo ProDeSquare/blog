@@ -19,6 +19,8 @@
 - Clone the repo
     ```
     $ git clone https://github.com/ProDeSquare/blog.git
+    $ git submodule init
+    $ git submodule update
     ```
 - From the directory run:
     ```shell
