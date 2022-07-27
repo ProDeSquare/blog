@@ -54,6 +54,9 @@ $ hugo -D
 
 ### My environment
 ```shell
+$ go version
+go version go1.18.4 linux/amd64
+
 $ hugo version
 hugo v0.101.0+extended linux/amd64 BuildDate=unknown
 ```
