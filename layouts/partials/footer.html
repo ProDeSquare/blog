@@ -1,0 +1,14 @@
+<div class="footer-gradient"></div>
+<div class="section narrow">
+  <div class="footer-hr"></div>
+  <div class="footer-container">
+    <div class="footer-text">
+      © <span id="currentYear"></span> {{ .Site.Title }}
+    </div>
+    {{ partial "social-links/social-links.html" . }}
+  </div>
+</div>
+
+<script>
+  document.querySelector("#currentYear").innerText = new Date().getFullYear();
+</script>
